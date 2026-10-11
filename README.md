@@ -10,7 +10,7 @@ Projeto desenvolvido como desafio da escola **Nova Era Tech**.
 
 | Tela inicial | Configuração | Resultado |
 |:---:|:---:|:---:|
-| <img src="screenshots/tela-inicial.png" width="230" alt="Tela inicial do app"> | <img src="screenshots/configuracao.png" width="230" alt="Tela de configuração da simulação"> | <img src="screenshots/resultado.png" width="230" alt="Tela de resultado da simulação"> |
+| <img src="app/src/screenshot/tela-inicial.png" width="230" alt="Tela inicial do app"> | <img src="app/src/screenshot/configuracao.png" width="230" alt="Tela de configuração da simulação"> | <img src="app/src/screenshot/resultado.png" width="230" alt="Tela de resultado da simulação"> |
 | Boas-vindas e botão para começar | Preenchimento dos dados da simulação | Valor final, total investido e lucro |
 
 ---
@@ -57,7 +57,7 @@ Com **R$ 500** de valor inicial, **R$ 100** de aporte mensal, **12% ao ano** dur
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+   git clone https://github.com/DiogoAlves345/Simulador-de-Investimentos-.git
    ```
 2. Abra a pasta do projeto no **Android Studio**.
 3. Aguarde o **Gradle** sincronizar.
